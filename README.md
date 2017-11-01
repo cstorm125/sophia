@@ -1,4 +1,4 @@
-# Project Sophia: MAKE Neural Networks from Scratch
+# Project Sophia: Make Neural Networks from Scratch
 
 ~~Plagiarized from~~ Inspired by [Andrej Karparthy's cs231n](http://cs231n.github.io/neural-networks-case-study/) and [Colah's Blog](http://colah.github.io/posts/2015-08-Backprop/).
 
