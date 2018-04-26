@@ -19,8 +19,8 @@ The content consists of the following aspects of neural networks:
     * Swish
     * Softmax
     * SVM
-    * Dropout (TBD)
-    * Batch Normalization (TBD)
+    * Dropout 
+    * Batch Normalization
     * Convolution (TBD)
     * LSTM (TBD)
     * Embeddings (TBD)
